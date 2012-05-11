@@ -53,7 +53,7 @@
 		template: $('#tweets-template').html(),
 		container: $('#impress'),
 		user: 'martinansty',
-		count: 10
+		count: 20
 	});
 
 })();
